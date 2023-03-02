@@ -1,6 +1,6 @@
 package lv.acodemy.homework01032023;
 
-public class HomeworkVariables {
+public class VariablesHomework {
     public static void main(String[] args) {
         byte numberOfStudentsPerClass = 30;
         byte numberOfTeachersPerClass = 3;
