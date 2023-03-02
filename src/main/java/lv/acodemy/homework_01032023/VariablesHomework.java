@@ -40,7 +40,7 @@ public class VariablesHomework {
         String name = "Max";
         String surName = "Shilov";
         String fullName = name + " " + surName;
-        String hobbies = "music, boardgames, videogames, books and movies";
+        String hobbies = "music, boardgames, video games, books and movies";
         System.out.printf("Hey! My name is %s. I love %s.\n", fullName, hobbies);
 
         int x = 4;
