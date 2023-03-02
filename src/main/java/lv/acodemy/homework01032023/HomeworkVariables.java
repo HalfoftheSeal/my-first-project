@@ -1,6 +1,6 @@
-package lv.acodemy.homework_01032023;
+package lv.acodemy.homework01032023;
 
-public class VariablesHomework {
+public class HomeworkVariables {
     public static void main(String[] args) {
         byte numberOfStudentsPerClass = 30;
         byte numberOfTeachersPerClass = 3;
@@ -49,3 +49,4 @@ public class VariablesHomework {
         System.out.println(z);
     }
 }
+
