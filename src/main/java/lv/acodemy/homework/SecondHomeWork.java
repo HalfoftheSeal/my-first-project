@@ -1,4 +1,4 @@
-package lv.acodemy.homework01032023;
+package lv.acodemy.homework;
 
 import java.util.Scanner;
 import java.util.Arrays;
