@@ -1,4 +1,4 @@
-package classroom_01032023;
+package lv.acodemy.classroom;
 
 public class IfElse {
     public static void main(String[] args) {

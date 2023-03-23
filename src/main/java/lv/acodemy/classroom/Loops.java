@@ -1,4 +1,4 @@
-package classroom_01032023;
+package lv.acodemy.classroom;
 
 import java.util.Arrays;
 
@@ -20,8 +20,8 @@ public class Loops {
         }
 
         for (int i = numbers.length - 1; i >= 0; i--) {
-                System.out.println(numbers[i]);
-            }
+            System.out.println(numbers[i]);
+        }
 
         for (int number : numbers) {
             System.out.println(number);
@@ -55,4 +55,4 @@ public class Loops {
         }
         System.out.println(Arrays.toString(emptyArray));
     }
-    }
+}

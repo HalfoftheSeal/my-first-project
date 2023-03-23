@@ -1,4 +1,4 @@
-package classroom_01032023;
+package lv.acodemy.classroom;
 
 import java.util.Arrays;
 

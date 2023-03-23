@@ -1,4 +1,4 @@
-package classroom_01032023;
+package lv.acodemy.classroom;
 
 public class Calculator {
     public int sum(int firstNumber, int secondNumber) {

@@ -1,4 +1,4 @@
-package lv.acodemy.homework01032023;
+package lv.acodemy.homework;
 
 public class VariablesHomework {
     public static void main(String[] args) {
@@ -49,4 +49,3 @@ public class VariablesHomework {
         System.out.println(z);
     }
 }
-

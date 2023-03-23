@@ -1,4 +1,6 @@
-package classroom_01032023;
+package lv.acodemy.classroom;
+
+import lv.acodemy.classroom.Cat;
 
 public class ObjectExample {
     public static void main(String[] args) {
