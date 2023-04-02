@@ -24,7 +24,7 @@ public class SecondHomeWork {
         salary = sc.nextDouble();
         if (salary <= 5000) {
             System.out.println("Your salary is low.");
-        } else if (5000 < salary && salary <= 10000) {
+        } else if (salary > 5000 && salary <= 10000) {
             System.out.println("Your salary is average.");
         } else if (salary > 10000) {
             System.out.println("Your salary is high.");
