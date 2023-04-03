@@ -1,4 +1,4 @@
-import classroom_01032023.Calculator;
+import lv.acodemy.classroom.Calculator;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
